@@ -1,3 +1,4 @@
+import sys
 import requests
 
 
@@ -65,7 +66,7 @@ def download_video(download_url, file_name):
 
 
 # main sequence of the program
-target_video_url = 'https://vimeo.com/712159936'
+target_video_url = sys.argv[1]
 video_id = get_video_id(target_video_url)
 video_config_json = get_video_config(video_id)
 target_pr_config = find_required_quality_height(video_config_json, 480)
