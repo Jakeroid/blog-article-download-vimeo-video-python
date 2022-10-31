@@ -4,6 +4,8 @@ I made simple post [how to download Vimeo video using Python](https://jakeroid.c
 This code is related to that article.
 I hope someone, especially newbies, could find it usefully in learning.
 
+If you need some assistance or similar software, I could help. Contact me on [LinkedIn](https://www.linkedin.com/in/ivan-karabadzhak-42712113b/) or [Upwork](https://www.upwork.com/freelancers/ivank6).
+
 Attention!
 ----------
 
